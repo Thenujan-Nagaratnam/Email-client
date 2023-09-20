@@ -399,7 +399,7 @@ class JavaSendMail {
 		properties.put("mail.smtp.port", "587");
 		
 		String username = "thenujanthenu22@gmail.com";
-		String password = "qravjdbiotxrajtj";
+		String password = "";
 		
 
 		Session session = Session.getInstance(properties,new Authenticator() {
